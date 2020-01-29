@@ -17,6 +17,7 @@ class Shoe
   
   def brand
     @brand
+    @BRANDS= "unique"
     
   end 
 
